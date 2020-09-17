@@ -1,0 +1,19 @@
+﻿生成启动时间为 2014/7/15 16:06:07。
+     1>项目“C:\Users\fantasy\Desktop\VoiceReco\VoiceReco\VoiceReco.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\VoiceReco.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt VoiceRecoDlg.cpp
+         VoiceRecoDlg.cpp
+     1>c:\program files (x86)\windows kits\8.1\include\um\sphelper.h(1319): warning C4996: 'GetVersionExW': 被声明为已否决
+                 c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442) : 参见“GetVersionExW”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\fantasy\Desktop\VoiceReco\Debug\VoiceReco.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\fantasy\Desktop\VoiceReco\Debug\VoiceReco.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\fantasy\Desktop\VoiceReco\Debug\VoiceReco.lib" /MACHINE:X86 Debug\VoiceReco.res
+         Debug\SREngine.obj
+         Debug\stdafx.obj
+         Debug\VoiceReco.obj
+         Debug\VoiceRecoDlg.obj
+         VoiceReco.vcxproj -> C:\Users\fantasy\Desktop\VoiceReco\Debug\VoiceReco.exe
+     1>已完成生成项目“C:\Users\fantasy\Desktop\VoiceReco\VoiceReco\VoiceReco.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.19
